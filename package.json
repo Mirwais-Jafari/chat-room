@@ -1,0 +1,16 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Mirwais Jafari",
+  "type": "module",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "socket.io": "^4.7.4"
+  }
+}
