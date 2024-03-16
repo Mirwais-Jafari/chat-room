@@ -29,8 +29,11 @@ Once you have accessed the chat room, you can perform the following actions:
 - Send messages in the chat room.
 - View messages from other participants in real-time.
 
-![Chat Room Web App Screenshot](path/to/screenshot.jpg)
-*Screenshot of the Chat Room Web App*
+
+![join room page](https://github.com/Mirwais-Jafari/chat-room/raw/master/public/images/join-room.PNG)
+*Join Room Page*
+![chat room page](https://github.com/Mirwais-Jafari/chat-room/raw/master/public/images/chat_page.PNG)
+*Chat Room Page*
 
 ## Features
 
