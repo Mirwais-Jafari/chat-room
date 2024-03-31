@@ -30,9 +30,9 @@ Once you have accessed the chat room, you can perform the following actions:
 - View messages from other participants in real time.
 
 
-![join room page](https://github.com/Mirwais-Jafari/chat-room/raw/main/public/images/join-room.PNG)
+![join room page](https://github.com/Mirwais-Jafari/chat-room/blob/main/public/images/join-chat.PNG?raw=true)
 *Join Room Page*
-![chat room page](https://github.com/Mirwais-Jafari/chat-room/raw/main/public/images/chat-chat.PNG)
+![chat room page](https://github.com/Mirwais-Jafari/chat-room/blob/main/public/images/chat-room.PNG?raw=true)
 *Chat Room Page*
 
 ## Features
