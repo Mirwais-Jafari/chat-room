@@ -27,12 +27,12 @@ Once you have accessed the chat room, you can perform the following actions:
 - Enter your desired username.
 - Join an existing chat room.
 - Send messages in the chat room.
-- View messages from other participants in real-time.
+- View messages from other participants in real time.
 
 
-![join room page](https://github.com/Mirwais-Jafari/chat-room/raw/master/public/images/join-room.PNG)
+![join room page](https://github.com/Mirwais-Jafari/chat-room/blob/main/public/images/join-chat.PNG?raw=true)
 *Join Room Page*
-![chat room page](https://github.com/Mirwais-Jafari/chat-room/raw/master/public/images/chat_page.PNG)
+![chat room page](https://github.com/Mirwais-Jafari/chat-room/blob/main/public/images/chat-room.PNG?raw=true)
 *Chat Room Page*
 
 ## Features
